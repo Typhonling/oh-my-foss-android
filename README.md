@@ -264,7 +264,13 @@
   [[网站](https://www.radio-browser.info/)]\*
   <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/segler-alex/RadioDroid?style=flat"></sub>
 
-  网络收音机，是 [radio-browser](https://www.radio-browser.info/users) 建议使用的客户端，自带频道列表。
+  <details>
+
+  <summary>网络收音机，是 <a href="https://www.radio-browser.info/users">radio-browser 建议使用的客户端</a>，自带频道列表。</summary><br/>
+
+  似乎缺乏维护。[RadioWave](https://github.com/OneDroid/RadioWave)  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/OneDroid/RadioWave?style=flat"></sub> 似乎有潜力成为替代品，还在早期开发中。
+
+  </details>
 
 - [Transistor（晶体管收音机）](https://codeberg.org/y20k/transistor)
   [[F-Droid](https://f-droid.org/packages/org.y20k.transistor/)]
@@ -798,7 +804,7 @@
 
   <summary>帮助管理用药规划，可以提醒吃药。</summary><br/>
 
-  可以增添用药条目，指定数量，以及记录过往用药。[Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds) <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/CorruptedArk/did-i-take-my-meds?style=flat"></sub> 太久没维护，这个替代品看起来还不错。
+  可以增添用药条目，指定数量，以及记录过往用药。[Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds) [[F-Droid](https://f-droid.org/packages/dev.corruptedark.diditakemymeds/)] <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/CorruptedArk/did-i-take-my-meds?style=flat"></sub> 太久没维护，这个替代品看起来还不错。
 
   </details>
 
@@ -1423,7 +1429,7 @@
 
   <summary>在打开方式和分享菜单中加入保存副本选项。</summary><br/>
 
-  [Save Copy](https://github.com/RikkaApps/SaveCopy) <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RikkaApps/SaveCopy?style=flat"></sub> 长久不更新了，虽然还能正常使用。Save Locally 算是替代品 + 小幅增强，可自定义保存目录。示例：应用内更新时，可选择此选项而不是直接安装，可不授予应用安装权限且保留安装包并手动在文件管理器中安装。
+  [Save Copy](https://github.com/RikkaApps/SaveCopy) [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/app.rikka.savecopy)] <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RikkaApps/SaveCopy?style=flat"></sub> 长久不更新了，虽然还能正常使用。Save Locally 算是替代品 + 小幅增强，可自定义保存目录。示例：应用内更新时，可选择此选项而不是直接安装，可不授予应用安装权限且保留安装包并手动在文件管理器中安装。
 
   质感文件具有同样的功能，名为“另存为”。
 
