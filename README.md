@@ -1796,6 +1796,21 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
 #### 系统美化
 
+- [Neo Launcher](https://github.com/NeoApplications/Neo-Launcher)
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/NeoApplications/Neo-Launcher?style=flat"></sub>\*
+
+  <details>
+
+  <summary>启动器。务必使用 0.9.2 版本，0.9.3 锁定桌面后会丢失桌面布局。</summary><br/>
+
+  唯一能找到的接近 Nova Launcher 的替代品，体感比 Lawnchair 好得多，0.9.2 还自带 [Taskbar](https://f-droid.org/packages/com.farmerbb.taskbar/) 桌面模式，投屏或 scrcpy 时不用再两个启动器来回切换了。
+
+  之前因 0.9.3 的 BUG 错失了它好多年而一直停留在 Nova（无锁定的桌面没法给长辈用），换手机重新尝试后才发现老版本的好。1.0 之后的 alpha 版本 BUG 也很多不建议尝试。
+
+  当然 0.9.2 也不是没有 BUG 比如更新应用后丢失图标，不过很好解决，有 2 个图标包时来回切换一下即可修复。在 A14+ 偶尔冻结问题一般熄屏再开即可解决。
+
+  </details>
+
 - [Doodle](https://github.com/patzly/doodle-android)
   [[F-Droid](https://f-droid.org/packages/xyz.zedler.patrick.doodle/)]
   [[网站](https://patrickzedler.com/doodle/)]
@@ -2692,6 +2707,41 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
   </details>
 
 </details>
+
+### 去 Google 化 \*
+
+一些手机上某些 ROM 确实比 LineageOS 有优势，但大多都内置了 Google 套件，这里列出一些应用以替代 Google 专有软件。[My Google-free Android life](https://lushka.al/posts/my-android-setup/) 这篇文章可供参考。
+
+- [Fossify Phone](https://github.com/FossifyOrg/Phone)
+  [[F-Droid](https://f-droid.org/packages/org.fossify.phone/)]
+  [[网站](https://www.fossify.org/)]\*
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/FossifyOrg/Phone?style=flat"></sub>
+
+- [Fossify Contacts](https://github.com/FossifyOrg/Contacts)
+  [[F-Droid](https://f-droid.org/packages/org.fossify.contacts/)]
+  [[网站](https://www.fossify.org/)]\*
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/FossifyOrg/Contacts?style=flat"></sub>
+
+  <details>
+
+  <summary>Fossify 拨号器和通讯录。</summary><br/>
+
+  安装和更新比较方便，AOSP/LineageOS 内置的包需要手动编译或下载安装包。可与 QUIK 一起使用。
+
+  </details>
+
+- [Etar](https://github.com/Etar-Group/Etar-Calendar)
+  [[F-Droid](https://f-droid.org/packages/ws.xsoh.etar/)]\*
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Etar-Group/Etar-Calendar?style=flat"></sub>
+
+  LineageOS [自带日历](https://github.com/LineageOS/android_packages_apps_Etar)的上游，为独立项目。
+
+- [CalcYou](https://github.com/you-apps/CalcYou)
+  [[F-Droid](https://f-droid.org/packages/net.youapps.calcyou/)]
+  [[网站](https://you-apps.net/)]\*
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/you-apps/CalcYou?style=flat"></sub>
+
+  计算器中最简洁的主界面（只有加减乘除，左右滑动可使用高级运算符），附带单位转换器。
 
 ## 相似集合
 
