@@ -1796,8 +1796,8 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
 #### 系统美化
 
-- [Neo Launcher](https://github.com/NeoApplications/Neo-Launcher)
-  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/NeoApplications/Neo-Launcher?style=flat"></sub>\*
+- [Neo Launcher](https://github.com/NeoApplications/Neo-Launcher)\*
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/NeoApplications/Neo-Launcher?style=flat"></sub>
 
   <details>
 
